@@ -1,0 +1,26 @@
+.ea{
+    text-align: center;
+}
+.imgss:hover{
+transform: scale(1.2,1.2);
+}
+.imgss{
+    margin-left: 50px;width:  230px
+}
+.div4{
+    display: flex;
+    justify-content: space-between; 
+}
+.lord{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.siu{
+    display: flex;
+    justify-content: space-between;
+    
+}
+img{
+    margin-top: 50px;
+}

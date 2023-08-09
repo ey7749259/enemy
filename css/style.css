@@ -1,0 +1,46 @@
+
+.img1{
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+li{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.header{
+    background-image: url(../imges/Untitled.jpg);
+    background-size: cover;
+}
+.big{
+    display: flex;
+    justify-content: space-between;
+    
+    position: relative;
+    height: 100vh;
+}
+a:hover{
+    font-size: 23px;
+    color: white;
+}
+.bb{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.hy{
+    display: flex;
+    justify-content: space-between;
+}
